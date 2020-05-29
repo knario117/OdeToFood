@@ -1,2 +1,2 @@
 # OdeToFood
-Course of MVC
+Course of MVC to learn web apps
